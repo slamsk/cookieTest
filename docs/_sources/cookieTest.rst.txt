@@ -1,0 +1,7 @@
+cookieTest module
+=================
+
+.. automodule:: cookieTest
+   :members:
+   :undoc-members:
+   :show-inheritance:
